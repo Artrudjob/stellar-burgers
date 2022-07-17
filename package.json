@@ -12,6 +12,7 @@
     "@types/node": "^16.11.26",
     "@types/react": "^17.0.42",
     "@types/react-dom": "^17.0.14",
+    "@types/uuid": "^8.3.4",
     "@ya.praktikum/react-developer-burger-ui-components": "^1.13.1",
     "date-fns": "^2.28.0",
     "react": "^16.8.6",

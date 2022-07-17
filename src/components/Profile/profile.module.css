@@ -18,10 +18,6 @@
     grid-area: nav;
 }
 
-/*.profile__inputs {
-    grid-area: inputs;
-}*/
-
 .profile_text {
     opacity: .4;
 }
@@ -30,23 +26,6 @@
     text-decoration: none;
 }
 
-/*
-.profile__box,
-.profile__box div:not(profile__box) {
-    width: 100%;
-    position: relative;
+.activeStyle {
+    color: white;
 }
-
-.profile__image {
-    width: 24px;
-    position: absolute;
-    top: -45px;
-    right: -430px;
-    cursor: pointer;
-}
-
-.profile__container {
-    display: flex;
-    justify-content: right;
-    align-items: center;
-}*/
